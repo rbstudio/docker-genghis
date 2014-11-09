@@ -10,6 +10,10 @@ Dockerized version of Genghis
 The application is served with the built in php server without process
 monitoring.
 
+# Usage
+
+`docker run --rm --name genghis -p 80:80 redbuffstudio/docker-genghis:v2.3.11-01`
+
 # License
 -------
 
